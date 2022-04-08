@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1590142295 source:d:\probleme info\proiect uso\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<map>
+	"sha256.h"
+
+1588866898 source:d:\probleme info\proiect uso\sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1588866878 d:\probleme info\proiect uso\sha256.h
+	<string>
+

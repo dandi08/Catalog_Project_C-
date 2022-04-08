@@ -1,0 +1,34 @@
+<users>
+    <username="1234">
+        <parola>03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4</parola>
+        <status>invatator</status>
+    </username>
+    <username="Marius">
+        <parola>c0936814922593ee6b6ec39e866e3a5e53421c47ce9885bcf931bd54cb08a651</parola>
+        <status>elev</status>
+    </username>
+    <username="Marus">
+        <parola>f0b93e4b20927bc02bd500f076c3c53b775b15994bb6e4521d9bcee914ece348</parola>
+        <status>elev</status>
+    </username>
+    <username="andreI">
+        <parola>934ca58234d353a03719d55ccbd9f3d4b56f5f61dfbddc957017b0ccc163d3d5</parola>
+        <status>elev</status>
+    </username>
+    <username="andrei">
+        <parola>934ca58234d353a03719d55ccbd9f3d4b56f5f61dfbddc957017b0ccc163d3d5</parola>
+        <status>invatator</status>
+    </username>
+    <username="gigi">
+        <parola>d63d71f407ad92113aa5b858936038d68e0fde0a7ed8b8a03a4fea2c2eab80d5</parola>
+        <status>elev</status>
+    </username>
+    <username="mihai">
+        <parola>18d63be10ad544a04a22c944dee01d6d864ec69b797a58edae92e6a44ad8fdbf</parola>
+        <status>elev</status>
+    </username>
+    <username="valy11">
+        <parola>fda8a90c8833044879130857b47a9e764ddee92a7653e15c3abce212e78d41b9</parola>
+        <status>admin</status>
+    </username>
+</users>

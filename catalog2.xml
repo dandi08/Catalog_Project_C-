@@ -1,0 +1,23 @@
+<scoala="scoala">
+  <clasa="I">
+    <invatator>Popescu Ioana</invatator>
+    <cnp>andrei</cnp>
+    <elev="Gicu">
+      <cnp></cnp>
+    </elev>
+    <elev="Marcu">
+      <cnp>Ciprian1</cnp>
+      <materie="mate 1">
+        <note>10,7</note>
+        <absente>9</absente>
+      </materie>
+    </elev>
+    <elev="Marius">
+      <cnp>andreI</cnp>
+      <materie="rom 2">
+        <note>1,6</note>
+        <absente>3</absente>
+      </materie>
+    </elev>
+  </clasa>
+</scoala>
